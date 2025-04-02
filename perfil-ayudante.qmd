@@ -19,6 +19,7 @@ El **Observatorio de Cohesión Social** de COES se encuentra buscando a un **ayu
 - Ser estudiante de 3er año o más de la carrera de sociología 
 - Manejo de bases de datos
 - Conocimientos en R y Quarto.
+- Manejo en Git y Github
 - Conocimientos en construcción de dashboards y visualización de datos (deseable).
 - Conocimiento en construcción de sitios web mediante Quarto (deseable).
 
