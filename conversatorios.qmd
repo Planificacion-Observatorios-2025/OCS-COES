@@ -11,91 +11,103 @@ bibliography: "input/ocs.bib"
 
 En su primera etapa, el trabajo del Observatorio de Cohesión Social se centró en desarrollar un marco teórico que permitiera operacionalizar el concepto de cohesión social [@castillo_hacia_2021; @castillo_conceptos_2021]. A partir de este trabajo, se generaron informes describiendo la situación social en Chile [@castillo_cohesion_2022; @barozet_clases_2021]. Además, se tomó como base para la construcción de una [plataforma interactiva](https://ocs-coes.netlify.app/app/) que permite visualizar indicadores de cohesión social con datos internacionales, transversales y longitudinales.
 
-Esta propuesta se enmarca en una segunda etapa que busca expander el trabajo realizado anteriormente. Por un lado, se actualizará el sitio web del Observatorio. Con ello, se presentará una nueva versión de su visualizador, que incorporará nuevas fuentes de datos a nivel internacional y nacional, dotando a la comunidad de una herramienta que proveerá datos de calidad sobre la situación de la cohesión social en Chile y en el mundo. 
+Esta propuesta se enmarca en una segunda etapa que busca expander el trabajo realizado anteriormente. Por un lado, se actualizará el sitio web del Observatorio. Con ello, se presentará una nueva versión de su visualizador, que incorporará nuevas fuentes de datos a nivel internacional y nacional, dotando a la comunidad de una herramienta que proveerá datos de calidad sobre la situación de la cohesión social en Chile y en el mundo.
 
 Por otro lado, en un contexto de deterior de la convivencia cívica y de alta desconfianza hacia las insituciones y autoridades [@araujo_primer_2022], resulta clave generar un espacio de discusión sobre los desafíos de la cohesión social en Chile y América Latina.
 
 De tal modo, este **Ciclo de Conversatorios sobre Cohesión Social** pretenden dotar ese espacio, triangulando el trabajo previo del Observatorio y la amplia producción académica de investigadores COES sobre el tema. De tal modo, se busca promover la discusión sobre los desafíos políticos, teóricos y metodológicos de la cohesión social en Chile y América Latina. Dirigido a estudiantes de pre y postgrado, académicos y la comunidad universitaria en general, los Conversatorios sobre Cohesión Social buscan fomentar la reflexión crítica, difundir y potenciar la investigación sobre cohesión social
 
-Siguiendo el trabajo previo del Observatorio, se abodará la cohesión social desde cuatro dimensiones clave: 1) **Desafíos regionales**, siguiendo la preocupación de organismos internacional, como CEPAL o PNUD, sobre el tema; 2) **Realidad chilena**, recogiendo la experiencia nacional en la medición de la cohesión social; 3) **La dimensión horizontal** de la cohesión social, incluyendo discusiones sobre el sentido de pertenencia, la vida barrial y las redes sociales; 4) **La dimensión vertical** de la cohesión social, esto es, la participación política, la confianza en las instituciones y las percepciones de justicia. 
+Siguiendo el trabajo previo del Observatorio, se abodará la cohesión social desde tres dimensiones clave: 1) **Desafíos regionales y nacionales** para la cohesión social, incluyendo la discusión política, teórica y metodológica; 2) **La dimensión horizontal** de la cohesión social, incluyendo discusiones sobre el sentido de pertenencia, la vida barrial y las redes sociales; 3) **La dimensión vertical** de la cohesión social, esto es, la participación política, la confianza en las instituciones y las percepciones de justicia.
 
-Cada uno de estos ejes protagonizará un conversatorio, como se describe a continuación: 
+Cada uno de estos ejes protagonizará un conversatorio, como se describe a continuación:
 
 # Conversatorios
 
+## Primer Conversatorio: Desafíos de la Cohesión Social en Chile y América Latina.
 
-## Primer Conversatorio: Desafíos de la Cohesión Social en América Latina
+Este conversatorio se plantea como una instancia de reflexión acerca de los desafíos de la Cohesión Social en Chile y América Latina, tanto a nivel político -- como una dimensión de la vida social que tensiona la convivencia en nuestras sociedad -- como en un constitución como objetivo sociológico.
 
-Pese a que los intentos de medir la cohesión social a nivel regional han terminado siendo descontinuidados [@castillo_conceptos_2021], las problemática de convivencia, la desigualdad y la legitimidad del orden democrático persisten en mucho de los países de América Latina [@undp_trapped_2023]. Por ello, se propone un primer conversatoio que aborde el fenómeno a nivel latinoamericano. 
+De tal modo, donde las problemáticas relacionadas a la convivencia, la desigualdad y la legitimidad del orden democrático persisten en gran parte de América Latina [@undp_trapped_2023], nos preguntamos que ¿qué efectos tiene el deterioro de la cohesión social en los países de la región? ¿cómo pueden las ciencias sociales estudiar este fenómeno? ¿cuál es su potencial para dar soluciones a estas problemáticas?
 
-- Posibles invitados:
-   - COES: Nicolás Somma; Cristóbal Rovira
-   - Externo: Representante de un organismo internacional como CEPAL o PNUD (¿Maya Zilveti?)
-   
-- Fecha tentativa: Mayo
+-   Posibles invitados:
+    -   Modera: Juan Carlos Castillo
+    -   COES: Nicolás Somma; Cristóbal Rovira; Bargsted, Atria.
+    -   Externo: Maya Zilveti, Andrea Repetto, Simone Cecchini (CEPAL); Emmanuelle Barozet
+-   Fecha tentativa: Junio
 
+## Segundo Conversatorio: Medir la Cohesión Social en Chile -- ELSOC y CASEN
 
-## Segundo Conversatorio:  Medir la Cohesión Social en Chile -- ELSOC y CASEN
+En la última década se han desarrollado diversas iniciativas que han buscado medir la cohesión social en Chile. Entre ellos, destacan la [Encuesta Longitudinal Social de Chile (ELSOC)](https://coes.cl/encuesta-panel/) de COES, que entre 2016 y 2022 ha realizado 6 olas abordando una variedad de temas relacionados con el conflicto y la cohesión social en Chile. Por otro lado, desde 2015 la [encuesta CASEN](https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen) del Ministerio de Desarrollo Social ha incluido un módulo de Cohesión Social, como parte de la nueva metodología para la medición de la pobreza multidimensional en Chile.
 
-En la última década se han desarrollado diversas iniciativas que han buscado medir la cohesión social en Chile. Entre ellos, destacan la [Encuesta Longitudinal Social de Chile (ELSOC)](https://coes.cl/encuesta-panel/) de COES, que entre 2016 y 2022 ha realizado 6 olas abordando una variedad de temas relacionados con el conflicto y la cohesión social en Chile. Por otro lado, desde 2015 la [encuesta CASEN](https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen) del Ministerio de Desarrollo Social ha incluido un módulo de Cohesión Social, como parte de la nueva metodología para la medición de la pobreza multidimensional en Chile. 
+Este conversatorio se plantea como un espacio de reflexión metodológica sobre las posibilidades y limitaciones para medir la cohesión social, así como las oportunidades y desafíos que plantean ambos instrumentos.
 
-Este conversatorio se plantea como un espacio de reflexión metodológica sobre las posibilidades y limitaciones para medir la cohesión social, así como las oportunidades y desafíos que plantean ambos instrumentos. 
-
-- Posibles invitados: 
-   - COES: Roberto González.
-   - Externo: Representante del Ministerio de Desarrollo Social
-   
-- Fecha tentativa: Agosto
-
-## Tercer Conversatorio: Cohesión Social y la Convivencia Cotidiana
+## Segundo Conversatorio: Cohesión Social y la Convivencia Cotidiana
 
 Esta tercera instancia se plantea como una instancia para reflexionar sobre la dimensión horizontal de la cohesión social. Como tal, en este conversatorio se debatirán problemáticas de convivencia cotidiana entre invididuos y grupos sociales, sus sentidos de pertenencia, sus identidades nacionales y barriales, su confianza interpersonal y su comportamiento prosocial [@castillo_hacia_2021]
 
-- Posibles invitados: 
-   - COES: Ana Figuereido; Nicolás Angelcos; Paula Luengo; Mario Sainz; Macarena Orchard; Macarena Bonhomme. 
-   - Externos: Valentina Abufhele; Félix Rojo (UCT); María Beatriz Férnandez (UC, MICARE); Sebastián Rojas (UAB, MICARE); María Paz Trebilcok (UAH, VIODEMOS).
-   
-Fecha Tentativa: Septiembre
+## Tercer Conversatorio: La Cohesión Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política.
 
-## Cuarto Conversatorio: La Cohesión Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política.
+Por último, el cuarto conversatorio estará enfocado en la dimensión vertical de la cohesión social, es decir, en la relación de los ciudadanos con el Estado, la participación política, la confianza en las instituciones y sus autoridades [@castillo_hacia_2021], todo esto en el contexto de las venideras elecciones presidenciales.
 
-Por último, el cuarto conversatorio estará enfocado en la dimensión vertical de la cohesión social, es decir, en la relación de los ciudadanos con el Estado, la participación política, la confianza en las instituciones y sus autoridades [@castillo_hacia_2021], todo esto en el contexto de las venideras elecciones presidenciales. 
+-   Posible invitados:
+    -   Modera: Sofía Donoso; Emmanuelle Barozet
+    -   COES: Mónica Gerber; Héctor Carvacho; Valentina Paredes; Sebastián Gallegos; Francisca Gutierrez; Alfredo Joignant; Matías Bargsted; Isabel Castillo; Catherine Reyes-Housholder
+    -   Externo: Kathya Araujo; Representantes de candidaturas; Juan Pablo Luna; M.A. Garretón.
+-   
 
-- Posible invitados: 
-   - COES: Mónica Gerber; Héctor Carvacho; Daniel Miranda; Sofía Donoso
-   - Externo: Kathya Araujo; Representantes de candidaturas; Juan Pablo Luna; M.A. Garretón. 
+# Propuesta de Invitados
 
-Fecha tentativa: Octubre/Noviembre
-
++------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
+| Conversatorio                                                                                        | Moderación           | Invitados                                                       | Alternativas           |
++======================================================================================================+======================+=================================================================+========================+
+| Desafíos de la Cohesión Social en Chile y América Latina                                             | Juan Carlos Castillo | Daniel Miranda (UChile; COES)                                   | 1.  Maya Zilveti       |
+|                                                                                                      |                      |                                                                 | 2.  Matías Cosiño      |
+|                                                                                                      |                      | Andrea Repetto (PUC)                                            | 3.  Emmanuelle Barozet |
+|                                                                                                      |                      |                                                                 | 4.  Macarena Orchard   |
+|                                                                                                      |                      |                                                                 | 5.  Nicolás Somma      |
+|                                                                                                      |                      |                                                                 | 6.  Roberto González   |
+|                                                                                                      |                      |                                                                 | 7.  Annie Duffey       |
+|                                                                                                      |                      |                                                                 | 8.  Jorge Atria        |
+|                                                                                                      |                      |                                                                 | 9.  Raimundo Frei      |
++------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
+| Cohesión Social y Convivencia Cotidiana                                                              | Nicolás Angelcos     | Quentin Ramond (U. Mayor; COES)                                 | 1.  Alejandra Rasse    |
+|                                                                                                      |                      |                                                                 | 2.  Felipe Link        |
+|                                                                                                      | \                    | Alejandra Lunecke (PUC, COES)                                   | 3.  Macarena Bonhomme  |
+|                                                                                                      | (Pablo Pérez)        |                                                                 | 4.  Vicente Espinoza   |
+|                                                                                                      |                      |                                                                 | 5.  Macarena Orchard   |
+|                                                                                                      |                      |                                                                 | 6.  Raimundo Frei      |
+|                                                                                                      |                      |                                                                 | 7.  Valentina Abufhele |
+|                                                                                                      |                      |                                                                 | 8.  Jorge Atria        |
++------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
+| Cohesion Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política | Emmanuelle Barozet   | Kathya Araujo (USACH)                                           | 1.  Juan Pablo Luna    |
+|                                                                                                      |                      |                                                                 | 2.  María Luisa Méndez |
+|                                                                                                      | (Sofía Donoso)\      | M.A. Garretón (UChile)                                          | 3.  Alfredo Joigant    |
+|                                                                                                      |                      |                                                                 | 4.  Mónica Gerber      |
+|                                                                                                      |                      | Opción de incluir representantes de candidaturas presidenciales | 5.  Matías Bargsted    |
++------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
 
 # Logística
 
 ## Lugar
 
-- Facultad de Ciencias Sociales, Universidad de Chile
-- Posibilidad de realizar un en una universidad regional, tentativamente la Universidad Católica de Temuco. 
-
+-   Facultad de Ciencias Sociales, Universidad de Chile
+-   Posibilidad de realizar un en una universidad regional, tentativamente la Universidad Católica de Temuco.
 
 ## Dinámica de la Actividad
 
-- Primer segmento: El equipo del Observatorio presenta avances del trabajo de OCS. En particular, se expondrá un segmento del visualizador que enmarque la discusión del conversatorios.
+-   Primer segmento: El equipo del Observatorio presenta avances del trabajo de OCS. En particular, se expondrá un segmento del visualizador que enmarque la discusión del conversatorios.
 
-- Segundo segmento: Dos investigadores/as comentan el primer segmento a la luz de sus propias investigaciones.  
-
+-   Segundo segmento: Dos investigadores/as comentan el primer segmento a la luz de sus propias investigaciones.
 
 ## Difusión
 
-- La promoción previa al evento se realizará mediante redes sociales COES, FACSO y del observatorio.
+-   La promoción previa al evento se realizará mediante redes sociales COES, FACSO y del observatorio.
 
-- A partir de los conversatorios se elaborarán cápsulas que se difundirán a través de la página web del observatorio, así como a través de redes sociales COES y FACSO.
+-   A partir de los conversatorios se elaborarán cápsulas que se difundirán a través de la página web del observatorio, así como a través de redes sociales COES y FACSO.
 
 ## Roles
 
-- Juan Carlos Castillo: Investigador Principal; moderación conversatorios
-- Kevin Carrasco: Asistente COES; Apoyo en la coordinación general.
-- Gabriel Cortés: Asistente de Investigación; Coordinación y gestión general; Supervisión ayudante de investigación. 
-- Ayudante de Investigación: Apoyo logístico; difusión de los conversatorios en redes sociales; creación de video cápsulas sobre los conversatorios. 
-
-
-
-
+-   Juan Carlos Castillo: Investigador Principal; moderación conversatorios
+-   Kevin Carrasco: Asistente COES; Apoyo en la coordinación general.
+-   Gabriel Cortés: Asistente de Investigación; Coordinación y gestión general; Supervisión ayudante de investigación.
+-   Ayudante de Investigación: Apoyo logístico; difusión de los conversatorios en redes sociales; creación de video cápsulas sobre los conversatorios.
