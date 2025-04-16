@@ -29,85 +29,42 @@ Este conversatorio se plantea como una instancia de reflexión acerca de los des
 
 De tal modo, donde las problemáticas relacionadas a la convivencia, la desigualdad y la legitimidad del orden democrático persisten en gran parte de América Latina [@undp_trapped_2023], nos preguntamos que ¿qué efectos tiene el deterioro de la cohesión social en los países de la región? ¿cómo pueden las ciencias sociales estudiar este fenómeno? ¿cuál es su potencial para dar soluciones a estas problemáticas?
 
--   Posibles invitados:
-    -   Modera: Juan Carlos Castillo
-    -   COES: Nicolás Somma; Cristóbal Rovira; Bargsted, Atria.
-    -   Externo: Maya Zilveti, Andrea Repetto, Simone Cecchini (CEPAL); Emmanuelle Barozet
--   Fecha tentativa: Junio
-
-## Segundo Conversatorio: Medir la Cohesión Social en Chile -- ELSOC y CASEN
-
-En la última década se han desarrollado diversas iniciativas que han buscado medir la cohesión social en Chile. Entre ellos, destacan la [Encuesta Longitudinal Social de Chile (ELSOC)](https://coes.cl/encuesta-panel/) de COES, que entre 2016 y 2022 ha realizado 6 olas abordando una variedad de temas relacionados con el conflicto y la cohesión social en Chile. Por otro lado, desde 2015 la [encuesta CASEN](https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen) del Ministerio de Desarrollo Social ha incluido un módulo de Cohesión Social, como parte de la nueva metodología para la medición de la pobreza multidimensional en Chile.
-
-Este conversatorio se plantea como un espacio de reflexión metodológica sobre las posibilidades y limitaciones para medir la cohesión social, así como las oportunidades y desafíos que plantean ambos instrumentos.
+**Fecha Tentativa**: **Junio**
 
 ## Segundo Conversatorio: Cohesión Social y la Convivencia Cotidiana
 
 Esta tercera instancia se plantea como una instancia para reflexionar sobre la dimensión horizontal de la cohesión social. Como tal, en este conversatorio se debatirán problemáticas de convivencia cotidiana entre invididuos y grupos sociales, sus sentidos de pertenencia, sus identidades nacionales y barriales, su confianza interpersonal y su comportamiento prosocial [@castillo_hacia_2021]
 
+**Fecha Tentativa**: **Agosto/Septiembre**
+
 ## Tercer Conversatorio: La Cohesión Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política.
 
 Por último, el cuarto conversatorio estará enfocado en la dimensión vertical de la cohesión social, es decir, en la relación de los ciudadanos con el Estado, la participación política, la confianza en las instituciones y sus autoridades [@castillo_hacia_2021], todo esto en el contexto de las venideras elecciones presidenciales.
 
--   Posible invitados:
-    -   Modera: Sofía Donoso; Emmanuelle Barozet
-    -   COES: Mónica Gerber; Héctor Carvacho; Valentina Paredes; Sebastián Gallegos; Francisca Gutierrez; Alfredo Joignant; Matías Bargsted; Isabel Castillo; Catherine Reyes-Housholder
-    -   Externo: Kathya Araujo; Representantes de candidaturas; Juan Pablo Luna; M.A. Garretón.
--   
+**Fecha Tentativa**: **Octubre/Noviembre**
 
 # Propuesta de Invitados
 
-+------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
-| Conversatorio                                                                                        | Moderación           | Invitados                                                       | Alternativas           |
-+======================================================================================================+======================+=================================================================+========================+
-| Desafíos de la Cohesión Social en Chile y América Latina                                             | Juan Carlos Castillo | Daniel Miranda (UChile; COES)                                   | 1.  Maya Zilveti       |
-|                                                                                                      |                      |                                                                 | 2.  Matías Cosiño      |
-|                                                                                                      |                      | Andrea Repetto (PUC)                                            | 3.  Emmanuelle Barozet |
-|                                                                                                      |                      |                                                                 | 4.  Macarena Orchard   |
-|                                                                                                      |                      |                                                                 | 5.  Nicolás Somma      |
-|                                                                                                      |                      |                                                                 | 6.  Roberto González   |
-|                                                                                                      |                      |                                                                 | 7.  Annie Duffey       |
-|                                                                                                      |                      |                                                                 | 8.  Jorge Atria        |
-|                                                                                                      |                      |                                                                 | 9.  Raimundo Frei      |
-+------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
-| Cohesión Social y Convivencia Cotidiana                                                              | Nicolás Angelcos     | Quentin Ramond (U. Mayor; COES)                                 | 1.  Alejandra Rasse    |
-|                                                                                                      |                      |                                                                 | 2.  Felipe Link        |
-|                                                                                                      | \                    | Alejandra Lunecke (PUC, COES)                                   | 3.  Macarena Bonhomme  |
-|                                                                                                      | (Pablo Pérez)        |                                                                 | 4.  Vicente Espinoza   |
-|                                                                                                      |                      |                                                                 | 5.  Macarena Orchard   |
-|                                                                                                      |                      |                                                                 | 6.  Raimundo Frei      |
-|                                                                                                      |                      |                                                                 | 7.  Valentina Abufhele |
-|                                                                                                      |                      |                                                                 | 8.  Jorge Atria        |
-+------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
-| Cohesion Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política | Emmanuelle Barozet   | Kathya Araujo (USACH)                                           | 1.  Juan Pablo Luna    |
-|                                                                                                      |                      |                                                                 | 2.  María Luisa Méndez |
-|                                                                                                      | (Sofía Donoso)\      | M.A. Garretón (UChile)                                          | 3.  Alfredo Joigant    |
-|                                                                                                      |                      |                                                                 | 4.  Mónica Gerber      |
-|                                                                                                      |                      | Opción de incluir representantes de candidaturas presidenciales | 5.  Matías Bargsted    |
-+------------------------------------------------------------------------------------------------------+----------------------+-----------------------------------------------------------------+------------------------+
-
-# Logística
-
-## Lugar
-
--   Facultad de Ciencias Sociales, Universidad de Chile
--   Posibilidad de realizar un en una universidad regional, tentativamente la Universidad Católica de Temuco.
++------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
+| Conversatorio                                                                                        | Moderación                          | Invitados                       |
++======================================================================================================+=====================================+=================================+
+| Desafíos de la Cohesión Social en Chile y América Latina                                             | Juan Carlos Castillo (UChile, COES) | Daniel Miranda (UChile; COES)   |
+|                                                                                                      |                                     |                                 |
+|                                                                                                      |                                     | Macarena Orchard (UDP, COES)    |
++------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
+| Cohesión Social y Convivencia Cotidiana                                                              | Nicolás Angelcos (UChile, COES)     | Quentin Ramond (U. Mayor; COES) |
+|                                                                                                      |                                     |                                 |
+|                                                                                                      |                                     | Macarena Bonhomme (UA; COES)    |
++------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
+| Cohesion Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política | Emmanuelle Barozet (UChile, COES)   | Kathya Araujo (USACH)           |
+|                                                                                                      |                                     |                                 |
+|                                                                                                      | \                                   | Daniel Mansuy (UAndes)          |
++------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
 
 ## Dinámica de la Actividad
 
--   Primer segmento: El equipo del Observatorio presenta avances del trabajo de OCS. En particular, se expondrá un segmento del visualizador que enmarque la discusión del conversatorios.
+-   Primer segmento: El moderador introduce el tema de la discusión a partir de su propia experiencia como investigador. Por lo demás, el Observatorio proveerá insumos a la discusión a partir de su propio trabajo, particularmente desde los hallazgos disponibles en los visualizadores del OCS.
 
 -   Segundo segmento: Dos investigadores/as comentan el primer segmento a la luz de sus propias investigaciones.
 
-## Difusión
-
--   La promoción previa al evento se realizará mediante redes sociales COES, FACSO y del observatorio.
-
--   A partir de los conversatorios se elaborarán cápsulas que se difundirán a través de la página web del observatorio, así como a través de redes sociales COES y FACSO.
-
-## Roles
-
--   Juan Carlos Castillo: Investigador Principal; moderación conversatorios
--   Kevin Carrasco: Asistente COES; Apoyo en la coordinación general.
--   Gabriel Cortés: Asistente de Investigación; Coordinación y gestión general; Supervisión ayudante de investigación.
--   Ayudante de Investigación: Apoyo logístico; difusión de los conversatorios en redes sociales; creación de video cápsulas sobre los conversatorios.
+## 
