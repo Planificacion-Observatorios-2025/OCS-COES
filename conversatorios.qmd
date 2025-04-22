@@ -23,43 +23,68 @@ Cada uno de estos ejes protagonizará un conversatorio, como se describe a conti
 
 # Conversatorios
 
-## Primer Conversatorio: Desafíos de la Cohesión Social en Chile y América Latina.
+## Primer Conversatorio: Cohesión Social y la Convivencia Cotidiana
+
+Esta instancia se plantea como una instancia para reflexionar sobre la dimensión horizontal de la cohesión social. Como tal, en este conversatorio se debatirán problemáticas de convivencia cotidiana entre invididuos y grupos sociales, sus sentidos de pertenencia, sus identidades nacionales y barriales, su confianza interpersonal y su comportamiento prosocial [@castillo_hacia_2021]
+
+**Fecha Tentativa**: Junio
+
+## Segundo Conversatorio: Desafíos de la Cohesión Social en Chile y América Latina.
 
 Este conversatorio se plantea como una instancia de reflexión acerca de los desafíos de la Cohesión Social en Chile y América Latina, tanto a nivel político -- como una dimensión de la vida social que tensiona la convivencia en nuestras sociedad -- como en un constitución como objetivo sociológico.
 
 De tal modo, donde las problemáticas relacionadas a la convivencia, la desigualdad y la legitimidad del orden democrático persisten en gran parte de América Latina [@undp_trapped_2023], nos preguntamos que ¿qué efectos tiene el deterioro de la cohesión social en los países de la región? ¿cómo pueden las ciencias sociales estudiar este fenómeno? ¿cuál es su potencial para dar soluciones a estas problemáticas?
 
-**Fecha Tentativa**: **Junio**
+Este conversatorio no contaría solo con la participación de académicos, sino que también se invitaría a actores políticos que puedan dar su visión de los desafíos de la cohesión social en Chile desde la persperctiva de sus territorios. Claudio Castro, alcade de Renca y miembros del Consejo Asesor Social ha demostrado interés en participar en una instancia de estas características. A él, se le podría sumar un segundo alcalde o alcaldesa.
 
-## Segundo Conversatorio: Cohesión Social y la Convivencia Cotidiana
-
-Esta tercera instancia se plantea como una instancia para reflexionar sobre la dimensión horizontal de la cohesión social. Como tal, en este conversatorio se debatirán problemáticas de convivencia cotidiana entre invididuos y grupos sociales, sus sentidos de pertenencia, sus identidades nacionales y barriales, su confianza interpersonal y su comportamiento prosocial [@castillo_hacia_2021]
-
-**Fecha Tentativa**: **Agosto/Septiembre**
+**Fecha Tentativa**: Agosto
 
 ## Tercer Conversatorio: La Cohesión Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política.
 
 Por último, el cuarto conversatorio estará enfocado en la dimensión vertical de la cohesión social, es decir, en la relación de los ciudadanos con el Estado, la participación política, la confianza en las instituciones y sus autoridades [@castillo_hacia_2021], todo esto en el contexto de las venideras elecciones presidenciales.
 
-**Fecha Tentativa**: **Octubre/Noviembre**
+**Fecha Tentativa**: **Octubre (Conferencia COES)**
 
 # Propuesta de Invitados
 
-+------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
-| Conversatorio                                                                                        | Moderación                          | Invitados                       |
-+======================================================================================================+=====================================+=================================+
-| Desafíos de la Cohesión Social en Chile y América Latina                                             | Juan Carlos Castillo (UChile, COES) | Daniel Miranda (UChile; COES)   |
-|                                                                                                      |                                     |                                 |
-|                                                                                                      |                                     | Macarena Orchard (UDP, COES)    |
-+------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
-| Cohesión Social y Convivencia Cotidiana                                                              | Nicolás Angelcos (UChile, COES)     | Quentin Ramond (U. Mayor; COES) |
-|                                                                                                      |                                     |                                 |
-|                                                                                                      |                                     | Macarena Bonhomme (UA; COES)    |
-+------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
-| Cohesion Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política | Emmanuelle Barozet (UChile, COES)   | Kathya Araujo (USACH)           |
-|                                                                                                      |                                     |                                 |
-|                                                                                                      | \                                   | Daniel Mansuy (UAndes)          |
-+------------------------------------------------------------------------------------------------------+-------------------------------------+---------------------------------+
++------------------------------------------------------------------------------------------------------+----------------------+----------------------------------------------------------------------+--------------------------------------+
+| Conversatorio                                                                                        | Moderación           | Invitados                                                            | Alternativas                         |
++======================================================================================================+======================+======================================================================+======================================+
+| Cohesión Social y Convivencia Cotidiana                                                              | Nicolás Angelcos     | Quentin Ramond (U. Mayor; COES)                                      | 1.  Alejandra Rasse                  |
+|                                                                                                      |                      |                                                                      | 2.  Felipe Link                      |
+|                                                                                                      |                      | Macarena Bonhomme (UMayor, COES)                                     | 3.  Macarena Bonhomme                |
+|                                                                                                      |                      |                                                                      | 4.  Vicente Espinoza                 |
+|                                                                                                      |                      |                                                                      | 5.  Macarena Orchard                 |
+|                                                                                                      |                      |                                                                      | 6.  Raimundo Frei                    |
+|                                                                                                      |                      |                                                                      | 7.  Valentina Abufhele               |
+|                                                                                                      |                      |                                                                      | 8.  Jorge Atria                      |
++------------------------------------------------------------------------------------------------------+----------------------+----------------------------------------------------------------------+--------------------------------------+
+| Desafíos de la Cohesión Social en Chile y América Latina                                             | Juan Carlos Castillo | Matías Bargsted (PUC, COES)                                          | 1.  Daniel Miranda                   |
+|                                                                                                      |                      |                                                                      | 2.  Jorge Atria                      |
+|                                                                                                      |                      | Macarena Orchard (UDP, COES)                                         | 3.  Rodolfo Disi                     |
+|                                                                                                      |                      |                                                                      | 4.  Maya Zilveti                     |
+|                                                                                                      |                      | Claudio Castro (Municipalidad de Renca) y un segundo alcade/alcadesa | 5.  Matías Cosiño                    |
+|                                                                                                      |                      |                                                                      | 6.  Emmanuelle Barozet               |
+|                                                                                                      |                      |                                                                      | 7.  Nicolás Somma                    |
+|                                                                                                      |                      |                                                                      | 8.  Roberto González                 |
+|                                                                                                      |                      |                                                                      | 9.  Annie Duffey                     |
+|                                                                                                      |                      |                                                                      | 10. Raimundo Frei                    |
+|                                                                                                      |                      |                                                                      |                                      |
+|                                                                                                      |                      |                                                                      | **Propuestas de Alcade/Alcadesa**    |
+|                                                                                                      |                      |                                                                      |                                      |
+|                                                                                                      |                      |                                                                      | 1.  Catalina San Martín (Las Condes) |
+|                                                                                                      |                      |                                                                      | 2.  Camila Merino (Vitacura)         |
+|                                                                                                      |                      |                                                                      | 3.  Agustín Iglesias (Independencia) |
+|                                                                                                      |                      |                                                                      | 4.  Carlos Palacios (La Reina)       |
++------------------------------------------------------------------------------------------------------+----------------------+----------------------------------------------------------------------+--------------------------------------+
+| Cohesion Social en el contexto de las elecciones presidenciales: Instituciones, autoridad y política | Emmanuelle Barozet   | Kathya Araujo (USACH)                                                | 1.  Daniel Mansuy                    |
+|                                                                                                      |                      |                                                                      | 2.  M.A. Garretón                    |
+|                                                                                                      | \                    | Cristóbal Belloio (UAI)                                              | 3.  Juan Pablo Luna                  |
+|                                                                                                      |                      |                                                                      | 4.  María Luisa Méndez               |
+|                                                                                                      |                      |                                                                      | 5.  Alfredo Joigant                  |
+|                                                                                                      |                      |                                                                      | 6.  Mónica Gerber                    |
+|                                                                                                      |                      |                                                                      | 7.  Matías Bargsted                  |
++------------------------------------------------------------------------------------------------------+----------------------+----------------------------------------------------------------------+--------------------------------------+
 
 ## Dinámica de la Actividad
 
