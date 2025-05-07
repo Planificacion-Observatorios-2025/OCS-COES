@@ -88,18 +88,18 @@ La mayor parte de la solicitud presupuestaria consiste en el pago de honorarios 
 
 El resto del presupuesto se compone principalmente de coffee breaks para las instancias de formación y divulgación propuestas, así como gastos de viáticos, logística y organización de las actividades.
 
-|                                         |                                                                                      |                  |
-|-----------------------------------------|--------------------------------------------------------------------------------------|------------------|
-| **Item**                                | **Detalle**                                                                          | **Monto**        |
-| Honorarios Asistente OCS                | Honorarios abril-noviembre por un monto de \$770.000 mensuales                       | \$6.160.000      |
-| Ayudante                                | Honorarios abril-noviembre por un monto de \$150.000 mensuales                       | \$1.200.000      |
-| Ciclo Conversatorios Cohesión Social    | 4 x Coffee Break 15 personas; Otros gastos de logística y organización               | \$600.000        |
-| Presentación OCVIS                      | Coffee Break 15 personas; Otros gastos de logística y organización                   | \$200.000        |
-| Conversatorio Elecciones Presidenciales | Coffee Break 25 personas                                                             | \$350.000        |
-| Colaboración Internacional              | Pasaje y viáticos visita RISC-Bremen para colaboración en paper encuesta comparativa | \$2.000.000      |
-| Cápsulas de Difusión                    | Pago de Audiovisual                                                                  | \$900.000        |
-| Otros                                   | Totebags, marcapáginas, agendas, etc., para regalar a invitados y participantes      | \$1.000.000      |
-| Congreso Chileno de Ciencia Política    | Viáticos participación (por confirmar)                                               | \$1.000.000      |
-| **Total**                               |                                                                                      | **\$13.410.000** |
+|  |  |  |
+|----|----|----|
+| **Item** | **Detalle** | **Monto** |
+| Honorarios Asistente OCS | Honorarios abril-noviembre por un monto de \$770.000 mensuales | \$6.160.000 |
+| Ayudante | Honorarios abril-noviembre por un monto de \$150.000 mensuales | \$1.200.000 |
+| Ciclo Conversatorios Cohesión Social | 4 x Coffee Break 15 personas; Otros gastos de logística y organización | \$600.000 |
+| Presentación OCVIS | Coffee Break 15 personas; Otros gastos de logística y organización | \$200.000 |
+| Conversatorio Elecciones Presidenciales | Coffee Break 25 personas | \$350.000 |
+| Colaboración Internacional | Pasaje y viáticos visita RISC-Bremen para colaboración en paper encuesta comparativa | \$2.000.000 |
+| Cápsulas de Difusión | Pago de Audiovisual | \$900.000 |
+| Otros | Totebags, marcapáginas, agendas, etc., para regalar a invitados y participantes | \$1.000.000 |
+| Congreso Chileno de Ciencia Política | Viáticos participación (por confirmar) | \$1.000.000 |
+| **Total** |  | **\$13.410.000** |
 
 : Presupuesto OCS 2025 {#tbl-presupuesto}
